@@ -23,6 +23,10 @@ and open the template in the editor.
         function smFunctionThree(){
             
         }
+        
+        function sm_especial(){
+            
+        }
         ?>
     </body>
 </html>
