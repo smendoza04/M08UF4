@@ -15,6 +15,10 @@ and open the template in the editor.
         function smFunctionOne (){
             //code code code
         }
+        
+        function smFunctionTwo(){
+            //code code code
+        }
         ?>
     </body>
 </html>
