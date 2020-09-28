@@ -24,9 +24,6 @@ and open the template in the editor.
             
         }
         
-        function sm_especial(){
-            echo "Longjie Chao";
-        }
         ?>
     </body>
 </html>
