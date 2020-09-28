@@ -25,7 +25,7 @@ and open the template in the editor.
         }
         
         function sm_especial(){
-            echo "Sophia Patrice Manalo Mendoza";
+            echo "Longjie Chao";
         }
         ?>
     </body>
